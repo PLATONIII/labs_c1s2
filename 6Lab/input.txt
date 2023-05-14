@@ -1,0 +1,9 @@
+8
+Boots B1 43 5200 2
+Boots B2 43 1200 2
+Shoes S1 39 4100 3
+Shoes Only1S 55 8100 3
+Boots B3 39 1200 2
+Boots B4 43 7200 2
+Shoes S2 44 6300 1
+Boots B5 44 2300 4
